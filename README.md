@@ -2,6 +2,11 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+Make sure you have npm installed within your application and computer:
+npm install next react react-dom
+
+now we can use npm run dev to start the application.
+
 First, run the development server:
 
 ```bash
